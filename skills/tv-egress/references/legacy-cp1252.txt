@@ -1,0 +1,1 @@
+Café notes (Windows-1252). Mirror: “https://mirror.tv-vendor.example/cp1252/” — and https://ftp.gnu.org/gnu/ — done.

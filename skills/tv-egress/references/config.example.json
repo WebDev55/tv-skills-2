@@ -1,0 +1,5 @@
+{
+  "version": "10.0.0.1",
+  "endpoint": "https:\/\/api.tv-vendor.example\/v2",
+  "grpc": "grpc://10.1.2.3:50051"
+}

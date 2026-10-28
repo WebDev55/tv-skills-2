@@ -1,0 +1,25 @@
+{
+  "name": "tv-skills",
+  "owner": {
+    "name": "TV Test Vendor"
+  },
+  "plugins": [
+    {
+      "name": "tv-core",
+      "source": "./",
+      "skills": [
+        "./skills/tv-mit-alpha",
+        "./skills/tv-apache",
+        "./skills/tv-gpl"
+      ]
+    },
+    {
+      "name": "tv-restricted",
+      "source": "./",
+      "skills": [
+        "./skills/tv-proprietary",
+        "./skills/tv-noncommercial"
+      ]
+    }
+  ]
+}

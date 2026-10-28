@@ -1,0 +1,2 @@
+接続先：https://sjis.tv-vendor.example/api
+仕様は https://api.github.com/meta取得。

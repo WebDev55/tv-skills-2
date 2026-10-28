@@ -1,0 +1,6 @@
+Copyright (c) 2026 TV Test Vendor. All rights reserved.
+
+This software is licensed, not sold.
+No license or right is granted to you except as expressly stated in a separate written agreement.
+You may not distribute, sublicense, or transfer it.
+Users may not reverse engineer, decompile or disassemble it.
